@@ -1,0 +1,19 @@
+# Backend Dependencies
+node_modules/
+
+# Secrets & Local Environment
+.env
+.env.*
+!.env.example
+
+# Python virtual environment & cache
+.venv/
+.venv*/
+.venv-face/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+
